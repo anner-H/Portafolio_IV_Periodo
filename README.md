@@ -9,7 +9,8 @@
 <li>Materia: Diseño Computarizado</li>
 <li>Profesor: Jossue Emmanuel Fuentes</li>
 
-<h1>Portada..................................1</h1>
+<h1>Indice</h1>
+<li>Portada..................................1</li>
 <li>Anteportada..............................................2</li>
 <li>Indice.......................................................3</li>
 <li>Objetivos.................................................4</li>
