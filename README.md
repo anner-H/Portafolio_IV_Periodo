@@ -9,14 +9,14 @@
 <li>Materia: Diseño Computarizado</li>
 <li>Profesor: Jossue Emmanuel Fuentes</li>
 
-<h1>Indice</h1>
-<li>Anteportada</li>
-<li>Indice</li>
-<li>Objetivos</li>
-<li>Ejemplo de Media</li>
-<li>wireframe 01_splash</li>
-<li>wireframe 02_login</li>
-<li>Objetivos Futuros</li>
+<h1>Portada..................................1</h1>
+<li>Anteportada..................................2</li>
+<li>Indice..................................3</li>
+<li>Objetivos..................................4</li>
+<li>Ejemplo de Media..................................5</li>
+<li>wireframe 01_splash..................................6</li>
+<li>wireframe 02_login..................................7</li>
+<li>Objetivos Futuros..................................8</li>
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-<ul><h1>Objetivos futuros</h1></ul>
+<h1>Objetivos futuros</h1>
 <li>Poder hacer una pagina web con todo lo que necesite de manera rapida </li>
 <li>Poder hacer un trabajo eficiente</li>
 <li>mi proposito es tener una mejora en mis diseños y y mi programación</li>
