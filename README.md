@@ -79,10 +79,13 @@
 <li>Poder  crear una pagina web profecional para us personal de cada persona</li>
 
 
+
+<h1>Documentación</h1>
+
+
+
 <ul><h1>Objetivos futuros</h1></ul>
 <li>Poder hacer una pagina web con todo lo que necesite de manera rapida </li>
 <li>Poder hacer un trabajo eficiente</li>
 <li>mi proposito es tener una mejora en mis diseños y y mi programación</li>
 <li>deseo obtener una pagina que logre ser funcional y a la ves que tengaun aspecto animado y elegante</li>
-
-<h1>Documentación</h1>
