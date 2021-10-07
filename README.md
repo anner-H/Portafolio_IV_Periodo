@@ -36,7 +36,7 @@
 <li>Soporte para tableta wireframe 01_splash - https://anner-h.github.io/Login_tres/</li>
 <li>Soporte para tableta wireframe 02_Login - https://anner-h.github.io/Tableta_login/</li>
 <li>Soporte para descktop - https://anner-h.github.io/Inicio_pagina/</li>
-        <li> Link 2 - https://github.com/anner-H/Inicio_pagina/tree/main</li>
+<li> Link 2 - https://github.com/anner-H/Inicio_pagina/tree/main</li>
 
 
 
