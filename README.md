@@ -29,7 +29,7 @@
 
 
 <h1>Documentación</h1>
-<li>Ejemplo de Media - https://anner-h.github.io/Documento_Media/<li>
+<li>Ejemplo de Media - https://anner-h.github.io/Documento_Media/</li>
 <li>wireframe 01_splash - https://anner-h.github.io/Home_page_2/</li>
 <li>wireframe 02_login - https://anner-h.github.io/Login_page/</li>
 <li>base School ERP - https://github.com/anner-H/Base_ERP</li>
