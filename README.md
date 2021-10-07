@@ -10,13 +10,13 @@
 <li>Profesor: Jossue Emmanuel Fuentes</li>
 
 <h1>Indice</h1>
+<li>Anteportada</li>
+<li>Indice</li>
+<li>Objetivos</li>
 <li>Ejemplo de Media</li>
 <li>wireframe 01_splash</li>
 <li>wireframe 02_login</li>
-<li>base School ERP</li>
-<li>Soporte para tableta wireframe 01_splash</li>
-<li>Soporte para tableta wireframe 02_Login</li>
-<li>Soporte para descktop</li>
+<li>Objetivos Futuros</li>
 
 
 
@@ -31,12 +31,7 @@
 <h1>Documentación</h1>
 <li>Ejemplo de Media - https://anner-h.github.io/Documento_Media/</li>
 <li>wireframe 01_splash - https://anner-h.github.io/Home_page_2/</li>
-<li>wireframe 02_login - https://anner-h.github.io/Login_page/</li>
-<li>base School ERP - https://github.com/anner-H/Base_ERP</li>
-<li>Soporte para tableta wireframe 01_splash - https://anner-h.github.io/Login_tres/</li>
-<li>Soporte para tableta wireframe 02_Login - https://anner-h.github.io/Tableta_login/</li>
-<li>Soporte para descktop - https://anner-h.github.io/Inicio_pagina/</li>
-<li> Link 2 - https://github.com/anner-H/Inicio_pagina/tree/main</li>
+<li>wireframe 02_login - https://anner-h.github.io/Inicio_pagina/</li>
 
 
 
